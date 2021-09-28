@@ -1,7 +1,7 @@
 # Trim Noise (trim_noise.py)
 
 This file takes in a wav file as input, and outputs a trimmed wav file, without silences in the beginning and end of the audio file. The pipeline is as follows:
-![trim_noise.py pipeline](trim_noise_diagram.PNG)
+![trim_noise.py pipeline](trim_noise_diagram.png)
 
 ### Trim single wav file
 
