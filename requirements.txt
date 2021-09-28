@@ -1,0 +1,3 @@
+logmmse==1.5
+pydub==0.24.1
+git+https://github.com/amsehili/auditok
